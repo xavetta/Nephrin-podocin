@@ -9,5 +9,6 @@ The background is subtracted after thresholding from each channel with triangle 
 Following this, the channels are equalized to the intensity range so that the following thresholding finds equal conditions for both channels.
 The Pearson's correlation coefficient is calculated by Coloc2 plugin. (description based on Moser et al. 2016)
 The resulting Log.txt file is processed with a Python algorithm.
+(Representative images in the Coloc folder)
 
 # Data analyzis and visualization
