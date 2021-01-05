@@ -12,4 +12,4 @@ The Pearson's correlation coefficient is calculated by Coloc2 plugin. (descripti
 The resulting Log.txt file is processed with a Python algorithm.
 (Image to run the macro can be find in the coloc_sample folder)
 
-# Data analyzis and visualization
+# Data analysis and visualization
