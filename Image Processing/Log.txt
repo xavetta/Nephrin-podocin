@@ -1,0 +1,678 @@
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.55. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_0117_A284V-eGFP_NPHS1-mRuby_WGA405_6.tif_versus_C2_tif_0117_A284V-eGFP_NPHS1-mRuby_WGA405_6.tif_16056846
+% zero-zero pixels, 55.13
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 29.690
+Channel 2 Mean, 30.748
+Channel 1 Integrated (Sum) Intensity, 5814352.000
+Channel 2 Integrated (Sum) Intensity, 6021595.000
+Mask Type Used, none
+Mask ID Used, 16056846
+m (slope), 0.78
+b (y-intercept), 7.49
+b to y-mean ratio, 0.24
+Ch1 Max Threshold, 54.00
+Ch2 Max Threshold, 50.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.60
+Pearson's R value (below threshold), -0.02
+Pearson's R value (above threshold), 0.19
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.71. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_0918_NPHS2-eGFP_NPHS1-mRuby3_WGA405_1.tif_versus_C2_tif_0918_NPHS2-eGFP_NPHS1-mRuby3_WGA405_1.tif_32539147
+% zero-zero pixels, 70.80
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 26.826
+Channel 2 Mean, 25.330
+Channel 1 Integrated (Sum) Intensity, 4239431.000
+Channel 2 Integrated (Sum) Intensity, 4002988.000
+Mask Type Used, none
+Mask ID Used, 32539147
+m (slope), 1.05
+b (y-intercept), -2.85
+b to y-mean ratio, -0.11
+Ch1 Max Threshold, 20.00
+Ch2 Max Threshold, 18.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.82
+Pearson's R value (below threshold), 0.01
+Pearson's R value (above threshold), 0.57
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.13. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_0918_R229Q-eGFP_NPHS1-mRuby3_WGA405_2.tif_versus_C2_tif_0918_R229Q-eGFP_NPHS1-mRuby3_WGA405_2.tif_18442814
+% zero-zero pixels, 12.68
+% saturated ch1 pixels, 0.01
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 78.201
+Channel 2 Mean, 73.593
+Channel 1 Integrated (Sum) Intensity, 2418666.000
+Channel 2 Integrated (Sum) Intensity, 2276161.000
+Mask Type Used, none
+Mask ID Used, 18442814
+m (slope), 1.01
+b (y-intercept), -5.74
+b to y-mean ratio, -0.08
+Ch1 Max Threshold, 59.00
+Ch2 Max Threshold, 54.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.47
+Pearson's R value (below threshold), -0.06
+Pearson's R value (above threshold), 0.15
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.49. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_0918_V290M-eGFP_NPHS1-mRuby3_WGA405_2.tif_versus_C2_tif_0918_V290M-eGFP_NPHS1-mRuby3_WGA405_2.tif_29419359
+% zero-zero pixels, 49.24
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 43.102
+Channel 2 Mean, 36.201
+Channel 1 Integrated (Sum) Intensity, 7084818.000
+Channel 2 Integrated (Sum) Intensity, 5950442.000
+Mask Type Used, none
+Mask ID Used, 29419359
+m (slope), 1.04
+b (y-intercept), -8.60
+b to y-mean ratio, -0.24
+Ch1 Max Threshold, 29.00
+Ch2 Max Threshold, 22.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.65
+Pearson's R value (below threshold), 0.00
+Pearson's R value (above threshold), 0.41
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.16. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_0918_V290M-eGFP_NPHS1-mRuby3_WGA405_3.tif_versus_C2_tif_0918_V290M-eGFP_NPHS1-mRuby3_WGA405_3.tif_914428
+% zero-zero pixels, 15.81
+% saturated ch1 pixels, 0.02
+% saturated ch2 pixels, 0.06
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 91.823
+Channel 2 Mean, 85.366
+Channel 1 Integrated (Sum) Intensity, 3177086.000
+Channel 2 Integrated (Sum) Intensity, 2953647.000
+Mask Type Used, none
+Mask ID Used, 914428
+m (slope), 0.98
+b (y-intercept), -5.03
+b to y-mean ratio, -0.06
+Ch1 Max Threshold, 14.00
+Ch2 Max Threshold, 9.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.53
+Pearson's R value (below threshold), -0.04
+Pearson's R value (above threshold), 0.32
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.29. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1002_A284V-eGFP_NPHS1-mRuby3_WGA405_3.tif_versus_C2_tif_1002_A284V-eGFP_NPHS1-mRuby3_WGA405_3.tif_28222629
+% zero-zero pixels, 29.24
+% saturated ch1 pixels, 0.01
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 48.174
+Channel 2 Mean, 64.808
+Channel 1 Integrated (Sum) Intensity, 1766644.000
+Channel 2 Integrated (Sum) Intensity, 2376624.000
+Mask Type Used, none
+Mask ID Used, 28222629
+m (slope), 0.87
+b (y-intercept), 22.79
+b to y-mean ratio, 0.35
+Ch1 Max Threshold, 46.00
+Ch2 Max Threshold, 63.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.62
+Pearson's R value (below threshold), -0.07
+Pearson's R value (above threshold), 0.20
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.34. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1002_A284V-eGFP_NPHS1-mRuby3_WGA405_4.tif_versus_C2_tif_1002_A284V-eGFP_NPHS1-mRuby3_WGA405_4.tif_27702227
+% zero-zero pixels, 34.32
+% saturated ch1 pixels, 0.01
+% saturated ch2 pixels, 0.02
+Channel 1 Max, 254.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 40.305
+Channel 2 Mean, 59.420
+Channel 1 Integrated (Sum) Intensity, 1549891.000
+Channel 2 Integrated (Sum) Intensity, 2284952.000
+Mask Type Used, none
+Mask ID Used, 27702227
+m (slope), 0.94
+b (y-intercept), 21.70
+b to y-mean ratio, 0.37
+Ch1 Max Threshold, 38.00
+Ch2 Max Threshold, 57.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.58
+Pearson's R value (below threshold), -0.01
+Pearson's R value (above threshold), 0.12
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.52. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1002_NPHS2-eGFP_NPHS1-mRuby3_WGA405_7.tif_versus_C2_tif_1002_NPHS2-eGFP_NPHS1-mRuby3_WGA405_7.tif_5544309
+% zero-zero pixels, 52.25
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.00
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 32.270
+Channel 2 Mean, 38.463
+Channel 1 Integrated (Sum) Intensity, 15340814.000
+Channel 2 Integrated (Sum) Intensity, 18285386.000
+Mask Type Used, none
+Mask ID Used, 5544309
+m (slope), 0.95
+b (y-intercept), 7.96
+b to y-mean ratio, 0.21
+Ch1 Max Threshold, 42.00
+Ch2 Max Threshold, 48.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.77
+Pearson's R value (below threshold), 0.10
+Pearson's R value (above threshold), 0.46
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.62. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1002_R138Q-eGFP_NPHS1-mRuby3_WGA405_2.tif_versus_C2_tif_1002_R138Q-eGFP_NPHS1-mRuby3_WGA405_2.tif_21671884
+% zero-zero pixels, 61.86
+% saturated ch1 pixels, 0.01
+% saturated ch2 pixels, 0.00
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 48.974
+Channel 2 Mean, 39.390
+Channel 1 Integrated (Sum) Intensity, 1986400.000
+Channel 2 Integrated (Sum) Intensity, 1597667.000
+Mask Type Used, none
+Mask ID Used, 21671884
+m (slope), 0.88
+b (y-intercept), -3.84
+b to y-mean ratio, -0.10
+Ch1 Max Threshold, 66.00
+Ch2 Max Threshold, 54.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.76
+Pearson's R value (below threshold), 0.34
+Pearson's R value (above threshold), 0.28
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.64. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1002_R138Q-eGFP_NPHS1-mRuby3_WGA405_5.tif_versus_C2_tif_1002_R138Q-eGFP_NPHS1-mRuby3_WGA405_5.tif_26746319
+% zero-zero pixels, 64.23
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 41.210
+Channel 2 Mean, 37.124
+Channel 1 Integrated (Sum) Intensity, 1855666.000
+Channel 2 Integrated (Sum) Intensity, 1671701.000
+Mask Type Used, none
+Mask ID Used, 26746319
+m (slope), 0.93
+b (y-intercept), -1.36
+b to y-mean ratio, -0.04
+Ch1 Max Threshold, 46.00
+Ch2 Max Threshold, 41.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.73
+Pearson's R value (below threshold), 0.05
+Pearson's R value (above threshold), 0.23
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.53. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1002_R229Q-eGFP_NPHS1-mRuby3_WGA405_4-1.tif_versus_C2_tif_1002_R229Q-eGFP_NPHS1-mRuby3_WGA405_4-1.tif_32000371
+% zero-zero pixels, 52.80
+% saturated ch1 pixels, 0.01
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 39.280
+Channel 2 Mean, 46.009
+Channel 1 Integrated (Sum) Intensity, 1038020.000
+Channel 2 Integrated (Sum) Intensity, 1215847.000
+Mask Type Used, none
+Mask ID Used, 32000371
+m (slope), 1.03
+b (y-intercept), 5.65
+b to y-mean ratio, 0.12
+Ch1 Max Threshold, 55.00
+Ch2 Max Threshold, 62.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.57
+Pearson's R value (below threshold), -0.04
+Pearson's R value (above threshold), 0.08
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.27. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1002_R229Q-eGFP_NPHS1-mRuby3_WGA405_8-1.tif_versus_C2_tif_1002_R229Q-eGFP_NPHS1-mRuby3_WGA405_8-1.tif_6445888
+% zero-zero pixels, 26.52
+% saturated ch1 pixels, 0.01
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 41.120
+Channel 2 Mean, 67.188
+Channel 1 Integrated (Sum) Intensity, 1177854.000
+Channel 2 Integrated (Sum) Intensity, 1924531.000
+Mask Type Used, none
+Mask ID Used, 6445888
+m (slope), 0.99
+b (y-intercept), 26.37
+b to y-mean ratio, 0.39
+Ch1 Max Threshold, 34.00
+Ch2 Max Threshold, 60.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.57
+Pearson's R value (below threshold), 0.02
+Pearson's R value (above threshold), 0.09
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.61. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1025_R286Tfs-eGFP_NPHS1-mRuby3_WGA405_8.tif_versus_C2_tif_1025_R286Tfs-eGFP_NPHS1-mRuby3_WGA405_8.tif_20248657
+% zero-zero pixels, 61.35
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 27.604
+Channel 2 Mean, 31.640
+Channel 1 Integrated (Sum) Intensity, 4096476.000
+Channel 2 Integrated (Sum) Intensity, 4695426.000
+Mask Type Used, none
+Mask ID Used, 20248657
+m (slope), 0.81
+b (y-intercept), 9.27
+b to y-mean ratio, 0.29
+Ch1 Max Threshold, 58.00
+Ch2 Max Threshold, 56.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.53
+Pearson's R value (below threshold), -0.02
+Pearson's R value (above threshold), -0.03
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.42. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1118_A284V-eGFP_NPHS1-mRuby3_WGA405_4.tif_versus_C2_tif_1118_A284V-eGFP_NPHS1-mRuby3_WGA405_4.tif_32682483
+% zero-zero pixels, 41.56
+% saturated ch1 pixels, 0.01
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 254.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 28.985
+Channel 2 Mean, 55.157
+Channel 1 Integrated (Sum) Intensity, 2960654.000
+Channel 2 Integrated (Sum) Intensity, 5633980.000
+Mask Type Used, none
+Mask ID Used, 32682483
+m (slope), 1.07
+b (y-intercept), 24.21
+b to y-mean ratio, 0.44
+Ch1 Max Threshold, 39.00
+Ch2 Max Threshold, 66.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.55
+Pearson's R value (below threshold), -0.01
+Pearson's R value (above threshold), 0.12
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.17. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1118_NPHS2-eGFP_NPHS1-mRuby3_WGA405_3.tif_versus_C2_tif_1118_NPHS2-eGFP_NPHS1-mRuby3_WGA405_3.tif_30440912
+% zero-zero pixels, 17.28
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 46.583
+Channel 2 Mean, 80.284
+Channel 1 Integrated (Sum) Intensity, 3665685.000
+Channel 2 Integrated (Sum) Intensity, 6317672.000
+Mask Type Used, none
+Mask ID Used, 30440912
+m (slope), 1.00
+b (y-intercept), 33.88
+b to y-mean ratio, 0.42
+Ch1 Max Threshold, 22.00
+Ch2 Max Threshold, 56.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.63
+Pearson's R value (below threshold), -0.00
+Pearson's R value (above threshold), 0.33
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.48. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1118_NPHS2-eGFP_NPHS1-mRuby3_WGA405_5.tif_versus_C2_tif_1118_NPHS2-eGFP_NPHS1-mRuby3_WGA405_5.tif_23279042
+% zero-zero pixels, 47.78
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.00
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 29.183
+Channel 2 Mean, 47.889
+Channel 1 Integrated (Sum) Intensity, 9234813.000
+Channel 2 Integrated (Sum) Intensity, 15153837.000
+Mask Type Used, none
+Mask ID Used, 23279042
+m (slope), 1.12
+b (y-intercept), 15.25
+b to y-mean ratio, 0.32
+Ch1 Max Threshold, 24.00
+Ch2 Max Threshold, 42.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.71
+Pearson's R value (below threshold), 0.01
+Pearson's R value (above threshold), 0.47
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.80. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1118_R138Q-eGFP_NPHS1-mRuby3_WGA405_4.tif_versus_C2_tif_1118_R138Q-eGFP_NPHS1-mRuby3_WGA405_4.tif_2409626
+% zero-zero pixels, 79.97
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.00
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 22.438
+Channel 2 Mean, 22.208
+Channel 1 Integrated (Sum) Intensity, 11698081.000
+Channel 2 Integrated (Sum) Intensity, 11578206.000
+Mask Type Used, none
+Mask ID Used, 2409626
+m (slope), 0.96
+b (y-intercept), 0.61
+b to y-mean ratio, 0.03
+Ch1 Max Threshold, 74.00
+Ch2 Max Threshold, 72.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.77
+Pearson's R value (below threshold), 0.14
+Pearson's R value (above threshold), 0.21
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.54. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1118_R138Q-eGFP_NPHS1-mRuby3_WGA405_7.tif_versus_C2_tif_1118_R138Q-eGFP_NPHS1-mRuby3_WGA405_7.tif_29925742
+% zero-zero pixels, 54.50
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.00
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 44.497
+Channel 2 Mean, 52.812
+Channel 1 Integrated (Sum) Intensity, 14459316.000
+Channel 2 Integrated (Sum) Intensity, 17161389.000
+Mask Type Used, none
+Mask ID Used, 29925742
+m (slope), 1.02
+b (y-intercept), 7.29
+b to y-mean ratio, 0.14
+Ch1 Max Threshold, 69.00
+Ch2 Max Threshold, 78.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.72
+Pearson's R value (below threshold), -0.11
+Pearson's R value (above threshold), 0.16
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.69. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1118_R229Q-eGFP_NPHS1-mRuby3_WGA405_7.tif_versus_C2_tif_1118_R229Q-eGFP_NPHS1-mRuby3_WGA405_7.tif_12459968
+% zero-zero pixels, 68.96
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.00
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 37.716
+Channel 2 Mean, 28.315
+Channel 1 Integrated (Sum) Intensity, 9771085.000
+Channel 2 Integrated (Sum) Intensity, 7335582.000
+Mask Type Used, none
+Mask ID Used, 12459968
+m (slope), 0.78
+b (y-intercept), -1.10
+b to y-mean ratio, -0.04
+Ch1 Max Threshold, 50.00
+Ch2 Max Threshold, 38.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.68
+Pearson's R value (below threshold), -0.06
+Pearson's R value (above threshold), 0.11
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.50. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1118_R286Tfs-eGFP_NPHS1-mRuby3_WGA405_3.tif_versus_C2_tif_1118_R286Tfs-eGFP_NPHS1-mRuby3_WGA405_3.tif_7801241
+% zero-zero pixels, 49.50
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.00
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 28.261
+Channel 2 Mean, 40.019
+Channel 1 Integrated (Sum) Intensity, 5681045.000
+Channel 2 Integrated (Sum) Intensity, 8044760.000
+Mask Type Used, none
+Mask ID Used, 7801241
+m (slope), 0.88
+b (y-intercept), 15.27
+b to y-mean ratio, 0.38
+Ch1 Max Threshold, 42.00
+Ch2 Max Threshold, 52.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.56
+Pearson's R value (below threshold), -0.03
+Pearson's R value (above threshold), 0.01
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.32. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1118_R286Tfs-eGFP_NPHS1-mRuby3_WGA405_5.tif_versus_C2_tif_1118_R286Tfs-eGFP_NPHS1-mRuby3_WGA405_5.tif_28664250
+% zero-zero pixels, 32.04
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 42.808
+Channel 2 Mean, 60.420
+Channel 1 Integrated (Sum) Intensity, 5851978.000
+Channel 2 Integrated (Sum) Intensity, 8259626.000
+Mask Type Used, none
+Mask ID Used, 28664250
+m (slope), 1.04
+b (y-intercept), 15.95
+b to y-mean ratio, 0.26
+Ch1 Max Threshold, 48.00
+Ch2 Max Threshold, 66.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.63
+Pearson's R value (below threshold), 0.01
+Pearson's R value (above threshold), 0.10
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.28. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1118_R286Tfs-eGFP_NPHS1-mRuby3_WGA405_9.tif_versus_C2_tif_1118_R286Tfs-eGFP_NPHS1-mRuby3_WGA405_9.tif_13736474
+% zero-zero pixels, 28.19
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 53.606
+Channel 2 Mean, 60.115
+Channel 1 Integrated (Sum) Intensity, 8359960.000
+Channel 2 Integrated (Sum) Intensity, 9375020.000
+Mask Type Used, none
+Mask ID Used, 13736474
+m (slope), 0.86
+b (y-intercept), 14.17
+b to y-mean ratio, 0.24
+Ch1 Max Threshold, 66.00
+Ch2 Max Threshold, 71.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.51
+Pearson's R value (below threshold), 0.00
+Pearson's R value (above threshold), 0.02
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.68. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1118_V290M-eGFP_NPHS1-mRuby3_WGA405_5.tif_versus_C2_tif_1118_V290M-eGFP_NPHS1-mRuby3_WGA405_5.tif_20049019
+% zero-zero pixels, 67.58
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.01
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 30.469
+Channel 2 Mean, 23.722
+Channel 1 Integrated (Sum) Intensity, 12530915.000
+Channel 2 Integrated (Sum) Intensity, 9756013.000
+Mask Type Used, none
+Mask ID Used, 20049019
+m (slope), 0.76
+b (y-intercept), 0.58
+b to y-mean ratio, 0.02
+Ch1 Max Threshold, 42.00
+Ch2 Max Threshold, 32.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.74
+Pearson's R value (below threshold), -0.02
+Pearson's R value (above threshold), 0.38
+!!! WARNINGS !!!
+Warning! Zero-zero ratio too high - The ratio between zero-zero pixels and other pixels is large: 0.63. Maybe you should use a ROI.
+Warning! y-intercept far from zero - The ratio of the y-intercept of the auto threshold regression line to the mean value of Channel 2 is high. This means the y-intercept is far from zero, implying a significant positive or negative zero offset in the image data intensities. Maybe you should use a ROI. Maybe do a background subtraction in both channels. Make sure you didn't clip off the low intensities to zero. This might not affect Pearson's correlation values very much, but might harm other results.
+Warning! Threshold of ch. 1 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+Warning! Threshold of ch. 2 too high - Too few pixels are taken into account for above-threshold calculations. The threshold is above the channel's mean.
+RESULTS:
+Coloc_Job_Name, Colocalization_of_C1_tif_1118_V290M-eGFP_NPHS1-mRuby3_WGA405_8-1.tif_versus_C2_tif_1118_V290M-eGFP_NPHS1-mRuby3_WGA405_8-1.tif_10679200
+% zero-zero pixels, 62.56
+% saturated ch1 pixels, 0.00
+% saturated ch2 pixels, 0.00
+Channel 1 Max, 255.000
+Channel 2 Max, 255.000
+Channel 1 Min, 0.000
+Channel 2 Min, 0.000
+Channel 1 Mean, 27.471
+Channel 2 Mean, 33.363
+Channel 1 Integrated (Sum) Intensity, 7185433.000
+Channel 2 Integrated (Sum) Intensity, 8726739.000
+Mask Type Used, none
+Mask ID Used, 10679200
+m (slope), 0.94
+b (y-intercept), 7.68
+b to y-mean ratio, 0.23
+Ch1 Max Threshold, 34.00
+Ch2 Max Threshold, 39.00
+Threshold regression, Bisection
+Pearson's R value (no threshold), 0.74
+Pearson's R value (below threshold), 0.03
+Pearson's R value (above threshold), 0.37
