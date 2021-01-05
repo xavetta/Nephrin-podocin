@@ -1,4 +1,4 @@
-# Codes_for_Role_of_podocin
+# Role_of_podocin
 Codes used for the image processing and data visualization in the publication "Podocin regulates the size of the glomerular pore".
 
 # Image processing
