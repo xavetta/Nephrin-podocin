@@ -80,7 +80,7 @@ function action(input, filename) {
 		run("Coloc 2", "channel_1="+p1+" channel_2="+p2+" roi_or_mask=<None> threshold_regression=Bisection");
 
 		
-	//Montage-ok
+	//Montage
 		selectImage(p1);
 		run("RGB Color");
 		selectImage(p2);
