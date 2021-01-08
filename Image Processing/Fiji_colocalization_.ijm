@@ -36,7 +36,7 @@ function action(input, filename) {
 		setBackgroundColor(0, 0, 0); 
 		run("Clear Outside");
 		run("8-bit");
-		run("Enhance Contrast...", "equalize"); 
+		run("Enhance Contrast...", "normalize"); 
 		
 	// Generate a Channel 2 image with subtracted background 
 		selectImage(p2); 
@@ -52,7 +52,7 @@ function action(input, filename) {
 		setBackgroundColor(0, 0, 0); 
 		run("Clear Outside"); 
 		run("8-bit");
-		run("Enhance Contrast...", "equalize"); 
+		run("Enhance Contrast...", "normalize"); 
 		
 	// Generate a Channel 3 image with subtracted background 
 		selectImage(p3); 
@@ -68,7 +68,7 @@ function action(input, filename) {
 		setBackgroundColor(0, 0, 0); 
 		run("Clear Outside"); 
 		run("8-bit");
-		run("Enhance Contrast...", "equalize");
+		run("Enhance Contrast...", "normalize");
 		
 		
 	//Merge
