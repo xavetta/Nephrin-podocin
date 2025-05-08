@@ -13,4 +13,4 @@ The resulting Log.txt file is processed with a Python algorithm.
 (Images to run the macro can be find in the coloc_sample folder)
 
 # Data analysis and visualization
-All statistical analyses were performed by Statistica software version 13.5 (Tibco Software). Renal survival rates related to different NPHS2 variants were compared by paired logrank test (Python 3.9.18., JupyterLab 3.6.7, Lifelines 0.29.0) with Bonferroni correction. Figures were made in JupyterLab 3.6.7 version with Matplotlib 3.7.1 and Seaborn 0.13.2 (Python 3.9.18).
+Statistical analyses were mainly performed by Statistica software version 13.5 (Tibco Software). Renal survival rates related to different NPHS2 variants were compared by paired logrank test (Python 3.9.18., JupyterLab 3.6.7, Lifelines 0.29.0) with Bonferroni correction. Figures were made in JupyterLab 3.6.7 version with Matplotlib 3.7.1 and Seaborn 0.13.2 (Python 3.9.18).
