@@ -1,5 +1,5 @@
 # Codes used in the publications "Podocin oligomers regulate the ordering of nephrin chains, providing the molecular basis of NPHS2 interallelic interactions"
-Codes used for the image processing and data visualization in the publication "Podocin oligomers regulate the ordering of nephrin chains, providing the molecular basis of NPHS2 interallelic interactions".
+This repository containes the codes and raw images used for the image processing and data analysis in the publication "Podocin oligomers regulate the ordering of nephrin chains, providing the molecular basis of NPHS2 interallelic interactions". The raw data can be found as supplementary for the original article.
 
 # Image processing
 For image processing we used the Fiji distribution of ImageJ (https://imagej.net/Fiji.html).
