@@ -2,9 +2,7 @@
 This repository contains the codes used for the image processing and data analysis in the publication "Podocin oligomers regulate the ordering of nephrin chains, providing the molecular basis of _NPHS2_ interallelic interactions". The FRET efficiency data can be found as supplementary for the original article.
 
 # Confocal microscopy
-Confocal images used for the quantification of membrane localization can be found in the "Raw_images" folder. 
-The perimembranous region was defined by delimitating WGA-labeled membrane extensions using Fiji (ImageJ) software. 
-The membrane-targeting of nephrin and podocin was characterized by the ratio of the WGA-labeled perimembranous area which colocalized with nephrin or podocin, and was quantified as the Manders' coefficient calculated by Fiji (ImageJ) JaCoP plugin.
+Confocal images used for the quantification of membrane localization can be found in the "Raw_images" folder.
 
 # Image processing
 For image processing we used the Fiji distribution of ImageJ (https://imagej.net/Fiji.html).
