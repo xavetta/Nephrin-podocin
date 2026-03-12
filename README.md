@@ -1,5 +1,5 @@
 # Codes used in the publication "Podocin oligomers regulate the ordering of nephrin chains, providing the molecular basis of _NPHS2_ interallelic interactions"
-This repository contains the codes used for the image processing and data analysis in the publication "Podocin oligomers regulate the ordering of nephrin chains, providing the molecular basis of _NPHS2_ interallelic interactions". The FRET efficiency data can be found as supplementary for the original article.
+This repository contains the primer and vector sequences and codes used for the image processing and data analysis in the publication "Podocin oligomers regulate the ordering of nephrin chains, providing the molecular basis of _NPHS2_ interallelic interactions". The FRET efficiency data can be found as supplementary for the original article. All pre-processed HEK-293 and podocyte confocal microscopy files are available at The BioImage Archive (https://doi.org/10.6019/S-BIAD2863).
 
 # Image processing
 For image processing we used the Fiji distribution of ImageJ (https://imagej.net/Fiji.html).
